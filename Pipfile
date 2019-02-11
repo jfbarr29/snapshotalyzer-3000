@@ -9,6 +9,8 @@ ipython = "*"
 [packages]
 boto3 = "*"
 click = "*"
+ipython = "*"
+awscli = "*"
 
 [requires]
 python_version = "3.7"
